@@ -19,5 +19,5 @@ Description: tools in staden io_lib
 Package: staden-io-lib-current-dev
 Section: universe/libdevel
 Architecture: any
-Depends: ${shlibs:Depends}, ${misc:Depends}, staden-io-lib-current (= ${binary:Version})
+Depends: ${shlibs:Depends}, ${misc:Depends}, staden-io-lib-current (= ${binary:Version}), libcurl4-openssl-dev
 Description: Development files for staden-io-lib
