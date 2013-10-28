@@ -1,3 +1,9 @@
+staden-io-lib-current (1.13.3-0) unstable; urgency=low
+
+  * update to version 1.13.3
+
+ -- German Tischler <gt1@sanger.ac.uk>  Mon, 28 Oct 2013 10:00:00 +0000
+
 staden-io-lib-current (1.13.1-0) unstable; urgency=low
 
   * update to version 1.13.1
